@@ -17,4 +17,5 @@ mqtt:
 # Serial settings
 serial:
   # Location of CC2531 USB sniffer
+  adapter: ezsp
   port: /dev/ttyACM0
